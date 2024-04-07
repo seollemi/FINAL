@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Geom-bold';
-    src: url('/Geom\ Graphic\ W03\ Bold.woff2') format('woff2');
+    src: url('./Geom\ Graphic\ W03\ Bold.woff2') format('woff2');
 }
   @font-face {
     font-family: 'Geom-reg';
-    src: url('/Geom\ Graphic\ W03\ Regular.woff2') format('woff2');
+    src: url('./Geom\ Graphic\ W03\ Regular.woff2') format('woff2');
 }
 
 body{
