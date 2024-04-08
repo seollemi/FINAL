@@ -143,6 +143,8 @@ body{
     font-size: var(--p-font);
     display: block;
     transition: .3s;
+}.list li{
+    list-style-type: none;
 }
 .list ul li a:hover{
     color: red;
